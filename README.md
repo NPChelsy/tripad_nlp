@@ -1,2 +1,2 @@
-# tripad_nlp
-Tripadvisor Review Analysis
+# Tripadvisor Review Analysis
+
