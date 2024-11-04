@@ -6,5 +6,7 @@ The goal of this project is to utilize NLP tools in Python to analyze customer r
 
 ### Data
 The Tripadvisor Dataset is available publicly available on [Zenodo](https://zenodo.org/records/1219899)
+
 Attribution Non-Commerical
+
 Attribution-NonCommercial 4.0 International
